@@ -159,11 +159,11 @@ footer .oki {
 
 @media screen and (max-width:450px) {
   .right img {
-    width: 230px;
+    width: 200px;
     margin: 0;
   }
   .left img {
-    width: 230px;
+    width: 200px;
     margin: 0;
   }
   .left .created {
@@ -171,7 +171,7 @@ footer .oki {
     text-align: justify;
   }
   .created .spisok{
-    margin-left: 7rem;
+    margin-left: 4rem;
   }
 
 }
