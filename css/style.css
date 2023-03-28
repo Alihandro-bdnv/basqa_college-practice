@@ -167,7 +167,7 @@ footer .oki {
     margin: 0;
   }
   .left .created {
-    font-size: 13px;
+    font-size: 11px;
     text-align: justify;
   }
   .created .spisok{
@@ -202,7 +202,7 @@ footer .oki {
   }
   .created {
     font-size: 15px;
-    margin-left: 3rem;
+    margin-left: 1.25rem;
     margin-top: -2.5rem;
   }
   .carusel img {
