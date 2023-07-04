@@ -89,7 +89,7 @@ body {
 }
 .created {
     float: right;
-    margin-top: 3.9rem;
+    margin-top: 1.5rem;
     font-family: 'Courier New';
     font-size: 18px;
 }
@@ -123,6 +123,7 @@ body {
 }
 .spisok {
   margin-right: 32rem;
+  margin-top: 2rem;
 }
 
 
@@ -138,6 +139,7 @@ footer .oki {
   color: rgb(114, 114, 114);
   font-size: 14px;
 }
+
 
 /* scrollbar */
 ::-webkit-scrollbar {
@@ -157,21 +159,32 @@ footer .oki {
 
 
 
+
 @media screen and (max-width:450px) {
+
+  .oki {
+    font-size: 10px;
+  }
+  .asd {
+    padding: 0.5rem;
+  }
+  .content {
+    padding: 1rem;
+  }
   .right img {
-    width: 200px;
+    width: 230px;
     margin: 0;
   }
   .left img {
-    width: 200px;
+    width: 230px;
     margin: 0;
   }
   .left .created {
-    font-size: 11px;
+    font-size: 13px;
     text-align: justify;
   }
   .created .spisok{
-    margin-left: 4rem;
+    margin-left: 7rem;
   }
 
 }
@@ -202,7 +215,7 @@ footer .oki {
   }
   .created {
     font-size: 15px;
-    margin-left: 1.25rem;
+    margin-left: 3rem;
     margin-top: -2.5rem;
   }
   .carusel img {
@@ -240,8 +253,5 @@ footer .oki {
   .cdr {
     text-align: center;
   }
-  .asd {
-    padding: 0.5rem;
-}
-  
+
 }
