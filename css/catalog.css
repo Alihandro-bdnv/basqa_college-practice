@@ -34,9 +34,11 @@ body {
     background-color: rgb(106, 106, 106);
 }
 .card-palace {
+    margin-right: 1rem;
+    margin-left: 1rem;
     margin-top: 4rem;
     margin-bottom: 2rem;
-    padding: 2rem;
+    padding-top: 2rem;
     background-color: rgb(60, 60, 60);
     border-radius: 10px;
     align-items: center;
